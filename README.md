@@ -1,5 +1,5 @@
 # Asm1-Frcpp
-#ex1
+# ex1
 short  myNum = 1;
 short  myNum1 = 10001;
 Int myNum2 = 100000001;
