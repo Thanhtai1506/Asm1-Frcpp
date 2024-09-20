@@ -1,5 +1,6 @@
 # Asm1-Frcpp
 # ex1
+```
 short  myNum = 1;
 short  myNum1 = 10001;
 Int myNum2 = 100000001;
@@ -12,4 +13,4 @@ char  myLetter = 'A';
 char myLetter1 = "c";
 string  myText = "Hello World";
 bool myBool = false;
-
+```
